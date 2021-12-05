@@ -1,0 +1,16 @@
+<html>  
+<head>  
+    <title>Frame tag</title>  
+    <style>
+    *{
+      margin:0;
+      padding:0;
+    }
+    </style>
+</head>  
+  <frameset cols="20%,60%,20%">  
+    <frame src="https://ak8052.github.io/assignment/FRAME1.HTML" >  
+    <frame src="https://ak8052.github.io/assignment/FRAME2.HTML">   
+    <frame src="https://ak8052.github.io/assignment/FRAME3.HTML">  
+  </frameset>  
+</html>  

@@ -1,0 +1,22 @@
+<html>  
+<head>  
+    <style>  
+       div{   
+         height: 500px;  
+  
+       }  
+       h2{
+           text-align: center;
+       }
+       body{
+           background-color: rgb(224, 224, 245);
+       }
+    </style>  
+</head>  
+<body>  
+    <div>  
+        <h2>BODY OF PAGE</h2>  
+        <p>Integral University is a private university in Lucknow, the capital of Uttar Pradesh, India. Integral University, the first enacted Minority University in the country, started functioning from 1 April 2004. Integral University was accorded recognition by U.G.C. under section 2(f) of U.G.C. Act, 1956. The university was founded in 2004.</p>
+    </div>  
+ </body>  
+</html>  
